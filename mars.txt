@@ -5,3 +5,4 @@ Some more information
 
 Some final info
 hi
+a conflicting line
